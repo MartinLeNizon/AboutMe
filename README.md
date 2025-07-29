@@ -7,8 +7,7 @@ I'm currently learning IT at INSA Lyon
 
 # 💻 Tech Stack:
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/MartinLePecheur.png)
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/MartinLePecheur.png" alt="Your Image Badge" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MartinLeNizon&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
