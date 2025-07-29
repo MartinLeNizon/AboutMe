@@ -1,20 +1,15 @@
 # 💫 About Me:
-I'm currently learning IT at INSA Lyon
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Martin NIZON-DELADOEUILLE) 
+I'm driven by an insatiable curiosity for **reverse engineering**, meticulously dissecting binaries and probing systems to understand their inner workings at the most fundamental level. My true passion, however, lies in the intricate art of **malware analysis**. I thrive on deconstructing malicious code, uncovering its hidden functionalities, command-and-control mechanisms, and evasive techniques. This deep dive into the adversarial mindset is continuously sharpened through the rigorous and practical challenges presented by platforms like Hack The Box (HTB) and TryHackMe (THM), where I apply and refine my skills in understanding, exploiting, and ultimately defending against sophisticated threats.
 
 # 💻 Tech Stack:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/MartinLePecheur.png" alt="Your Image Badge" />
+[TryHackMe](https://tryhackme.com/p/MartinLePecheur)
+![](THM.png)
+![](THM_2.png)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MartinLeNizon&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MartinLeNizon&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinLeNizon&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[HackTheBox](https://app.hackthebox.com/profile/1989235)
+![](HTB.png)
+![](HTB_2.png)
+![](HTB_3.png)
 
----
-[![](https://visitcount.itsvg.in/api?id=MartinLeNizon&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
